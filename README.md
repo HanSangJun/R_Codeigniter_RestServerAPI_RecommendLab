@@ -1,7 +1,7 @@
 # RestServer API using Codeigniter3 integrated with R to implement Collaborative Filtering(RecommenderLab)
 
 ### This project is conducted for...
-1) 2016 Fall Semster Database System final project, GIST<br />
+1) 2016 Fall Semester Database System final project, GIST<br />
 2) to design travel-recommender system using collaborative filtering<br />
 3) Collaborative filtering is implemented by R, RecommenderLab package<br />
 4) On Ubuntu 14.04 LTS, RestServer API using Codeigniter3 communicataes with R through shell command<br />
