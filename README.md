@@ -1,4 +1,5 @@
-# RestServer API using Codeigniter3 integrated with R to implement Collaborative Filtering(RecommenderLab)
+# RestServer API
+# using Codeigniter3 integrated with R to implement Collaborative Filtering(RecommenderLab)
 
 ### This project is conducted for...
 1) 2016 Fall Semster Database System final project, GIST<br />
@@ -10,7 +11,7 @@
 ### The environment(only server side)
 1) Ubuntu 14.04<br />
 2) Codeigntier3(WEB PHP framework)<br />
-3) Codeigniter3 RestServer API(https://github.com/chriskacerguis/codeigniter-restserver)<br />
+3) Codeigniter3 RestServer API (https://github.com/chriskacerguis/codeigniter-restserver)<br />
 4) MySQL<br />
 5) R with RecommenderLab package(The way of converting table to R matrix is included)<br />
 
@@ -19,10 +20,10 @@
 2) who are having difficulty of communicationg with R and php(hard to find on Google, you can get hints)<br />
 
 ### Call API
-1) Traininge ex) http://54.153.75.255:12345/index.php/HAVE/training(post call without parameters)<br />
-2) Predict ex) http://54.153.75.255:12345/index.php/HAVE/predict(post call with parameter member_id)<br />
+1) Traininge ex) http://54.153.75.255:12345/index.php/HAVE/training (post call without parameters)<br />
+2) Predict ex) http://54.153.75.255:12345/index.php/HAVE/predict (post call with parameter member_id)<br />
 
-### Files
+### The Files
 1) havebeento - The file of Codeigniter framework with REST API. You can check API on application/controller/HAVE.php<br />
 2) Training.R - to train collaborative filtering<br />
 3) Predict.R - to predict<br />
