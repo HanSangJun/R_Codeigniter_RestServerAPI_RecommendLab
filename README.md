@@ -23,7 +23,7 @@
 2) Predict ex) http://54.153.75.255:12345/index.php/HAVE/predict (post call with parameter member_id)<br />
 
 ### The Files
-1) havebeento - The file of Codeigniter framework with REST API. You can check API on application/controller/HAVE.php<br />
+1) HAVE.php - It is controller of codeigniter framework, you can check API function on it<br />
 2) Training.R - to train collaborative filtering<br />
 3) Predict.R - to predict<br />
 
