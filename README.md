@@ -28,4 +28,4 @@
 3) Predict.R - to predict<br />
 
 ### Made by
-Sangjun Han(hjun1008@gist.ac.kr), BioComputing Lab, GIST, Gwangju, South Korea<br />
+Sangjun Han 한상준(hjun1008@gist.ac.kr), BioComputing Lab, GIST, Gwangju, South Korea<br />
